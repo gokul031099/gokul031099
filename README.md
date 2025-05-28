@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 Data Science Enthusiasts<br>🛠️ Tableau📈, SQL, Python, R<br>🌱 I’m currently learning Power BI📊<br>🦾Mechanical Engineer ➡️👨‍💻 Data Analyst
+🔭 AI Enthusiasts<br>🛠️ Tableau📈, SQL, Python, R<br>🌱 I’m currently learning Power BI📊<br>🦾Mechanical Engineer ➡️👨‍💻 Data Analyst
 
 
 ## 🌐 Socials:
